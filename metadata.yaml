@@ -1,5 +1,5 @@
 _repo: L-art-d-aimer-les-livres-et-de-les-connaitre-lettres-a-un-jeune-bibliophile_63496
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Gérardin, François-Alexandre-Alfred
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '52479'
     url: http://www.gutenberg.org/2009/agents/52479
     wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Alexandre_Alfred_G%C3%A9rardin
+covers:
+- cover_type: archival
+  image_path: 63496-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Petit, Jules
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '52478'
     url: http://www.gutenberg.org/2009/agents/52478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63496#L-art-d-aimer-les-livres-et-de-les-connaitre-lettres-a-un-jeune-bibliophile
 gutenberg_issued: '2020-10-18'
 gutenberg_type: Text
 identifiers:
